@@ -1,6 +1,6 @@
 # Solución de Problemas
 
-n esta actividad, se generará un modelo de regresión lineal múltiple utilizando el archivo A1.5 Calificaciones.csv, que contiene información sobre el desempeño académico de los estudiantes. Cada observación incluye varias características, como número de faltas, horas de estudio y calificaciones previas, entre otras.
+En esta actividad, se generará un modelo de regresión lineal múltiple utilizando el archivo A1.5 Calificaciones.csv, que contiene información sobre el desempeño académico de los estudiantes. Cada observación incluye varias características, como número de faltas, horas de estudio y calificaciones previas, entre otras.
 
 El objetivo de este análisis es entrenar un modelo que pueda predecir la calificación final (G3) en función de las variables disponibles, aplicando técnicas para mejorar su desempeño y evaluar su precisión.
 ## 🎯 Objetivo
